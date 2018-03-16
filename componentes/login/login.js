@@ -59,7 +59,7 @@ export default class login extends Component<Props> {
 
             <View style={{flex: 1, flexDirection: 'row', marginTop: 30}}>
                     <TouchableHighlight style={{ marginTop: 20, }} onPress={() => this.Restauracion()}>
-                <Text style={{color:'#B1181A'}}>Se me olvido la clave </Text>
+                <Text style={{color:'#B1181A'}}>Se me olvido la clave! </Text>
                 </TouchableHighlight>
 
                 
